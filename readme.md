@@ -1,0 +1,10 @@
+api key
+lu6WtmsoYVahB0uOjrmBSO0Uf
+
+api secret key
+ygpCuhxjqIwuG1CCPMG4trhpIgzZyncwrQUE9M6VlnweNot39e
+
+bearer token
+AAAAAAAAAAAAAAAAAAAAAId8MwEAAAAAJW2aSp%2BAslvlRRh9HCp3I%2FSmh28%3Dr5D0GMnFwAJ5CAuTfdVGOKoMjT8pLKeiVzGTdJDsHm4W1bOIRT
+
+
